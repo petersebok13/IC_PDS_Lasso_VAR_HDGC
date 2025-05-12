@@ -6,15 +6,15 @@ Contents:
 
 simulation/: Scripts to run Monte Carlo simulations for model evaluation
 
-  Part 1: Cross-sectional data and model accuracy
-  Part 2: Time series data and model accuracy
-  Part3: Time series data and Granger causality
+  Part 1: Cross-sectional data and model accuracy,
+  Part 2: Time series data and model accuracy,
+  Part 3: Time series data and Granger causality
 
   Scenarios:
-  A: All conditions hold
-  B: All conditions fail to hold
-  C: Beta-min condition violated
-  D: Sparsity condition violated
+  A: All conditions hold,
+  B: All conditions fail to hold,
+  C: Beta-min condition violated,
+  D: Sparsity condition violated,
   E: Irrepresentable condition violated
 
 methods/: Functions implementing different model selection techniques
