@@ -14,4 +14,4 @@ utils/: Helper functions used across simulations and applications
 
 plots/: Reproducible figures used in the thesis
 
-Sebők, Péter (2025): Information Criterion Based Optimization of the PDS-Lasso-VAR Model and its Application on the High-Dimensional Granger Network Estimation
+Sebők, Péter (2025): Information Criterion Based Optimization of the PDS-Lasso-VAR Model and its Application on the High-Dimensional Granger Network Estimation. Corvinus University of Budapest, Institute of Finance.
