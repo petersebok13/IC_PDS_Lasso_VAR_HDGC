@@ -6,12 +6,19 @@ Contents:
 
 simulation/: Scripts to run Monte Carlo simulations for model evaluation
 
+  Part 1: Cross-sectional data and model accuracy
+  Part 2: Time series data and model accuracy
+  Part3: Time series data and Granger causality
+
+  Scenarios:
+  A: All conditions hold
+  B: All conditions fail to hold
+  C: Beta-min condition violated
+  D: Sparsity condition violated
+  E: Irrepresentable condition violated
+
 methods/: Functions implementing different model selection techniques
 
 empirical/: Code to replicate the financial volatility network analysis
-
-utils/: Helper functions used across simulations and applications
-
-plots/: Reproducible figures used in the thesis
 
 Sebők, Péter (2025): Information Criterion Based Optimization of the PDS-Lasso-VAR Model and its Application on the High-Dimensional Granger Network Estimation. Corvinus University of Budapest, Institute of Finance.
