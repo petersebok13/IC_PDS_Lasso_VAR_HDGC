@@ -17,8 +17,8 @@ simulation/: Scripts to run Monte Carlo simulations for model evaluation
   D: Sparsity condition violated,
   E: Irrepresentable condition violated
 
-methods/: Functions implementing different model selection techniques
+methods/: All the functions necessary for implementing data generation, model estimation, model selection, score tests (accuracy, power and size), and network estimation
 
-empirical/: Code to replicate the financial volatility network analysis
+empirical/: Code and the data to replicate the financial volatility network analysis
 
 Sebők, Péter (2025): Information Criterion Based Optimization of the PDS-Lasso-VAR Model and its Application on the High-Dimensional Granger Network Estimation. Corvinus University of Budapest, Institute of Finance.
