@@ -2,7 +2,7 @@
 This repository accompanies my Master's thesis, which investigates the optimization of the Post-Double Selection (PDS) Lasso-VAR model using various model selection techniques to estimate Granger causality networks in high-dimensional time series settings. 
 The repository contains all R scripts necessary to reproduce the simulation studies, methodological comparisons, and empirical analysis conducted in the thesis. The implemented methods include common criteria (AIC, BIC, CV) and advanced approaches (ERIC, EBIC, Theoretical), evaluated under multiple data-generating processes.
 
-Contents:
+Contents (Branches):
 
 simulation/: Scripts to run Monte Carlo simulations for model evaluation
 
